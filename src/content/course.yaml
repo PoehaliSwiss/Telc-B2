@@ -32,3 +32,5 @@ structure:
     items:
       - title: Introduction
         path: /module-3/introduction
+      - title: Lesson 11
+        path: /module-3/lesson-11
