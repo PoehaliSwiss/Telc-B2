@@ -36,9 +36,9 @@ structure:
         path: /module-3/lesson-13
       - title: Lesson 14
         path: /module-3/lesson-14
+      - title: Lesson 15
+        path: /module-3/lesson-15
   - title: Module 3
     items:
       - title: Introduction
         path: /module-3/introduction
-      - title: Lesson 15
-        path: /module-3/lesson-15
