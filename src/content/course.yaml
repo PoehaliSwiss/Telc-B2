@@ -66,3 +66,5 @@ structure:
     items:
       - title: Lesson 26
         path: /module-4/lesson-26
+      - title: Introduction
+        path: /module-4/introduction
