@@ -64,7 +64,7 @@ structure:
         path: /module-3/lesson-25
   - title: Module 4
     items:
-      - title: Lesson 26
-        path: /module-4/lesson-26
       - title: Introduction
         path: /module-4/introduction
+      - title: Lesson 26
+        path: /module-4/lesson-26
