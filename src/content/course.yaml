@@ -28,12 +28,12 @@ structure:
         path: /module-2/lesson-9
       - title: Lesson 10
         path: /module-2/lesson-10
+      - title: Lesson 11
+        path: /module-3/lesson-11
   - title: Module 3
     items:
       - title: Introduction
         path: /module-3/introduction
-      - title: Lesson 11
-        path: /module-3/lesson-11
       - title: Lesson 12
         path: /module-3/lesson-12
       - title: Lesson 13
