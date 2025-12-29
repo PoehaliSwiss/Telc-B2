@@ -62,3 +62,5 @@ structure:
         path: /module-3/lesson-24
       - title: Lesson 25
         path: /module-3/lesson-25
+  - title: Module 4
+    items: []
